@@ -1,0 +1,21 @@
+{
+  "session": "trial_training",
+  "models": {
+    "gemini-2.0-flash": {
+      "input_tokens": 18724965,
+      "output_tokens": 7418663,
+      "total_tokens": 26143628,
+      "input_usd": 1.8733179999999807,
+      "output_usd": 2.96712599999988,
+      "total_usd": 4.8407920000000395
+    }
+  },
+  "grand_totals": {
+    "input_tokens": 18724965,
+    "output_tokens": 7418663,
+    "total_tokens": 26143628,
+    "input_usd": 1.873318,
+    "output_usd": 2.967126,
+    "total_usd": 4.840792
+  }
+}
